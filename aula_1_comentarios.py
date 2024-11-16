@@ -1,0 +1,20 @@
+"""
+DOCSTRING 
+ESCREVER O QUE EU QUISER
+TESTE EM ASPAS DUPLAS
+SLA
+
+"""
+
+'''
+
+TESTE EM ASPAS SIMPLES
+
+'''
+
+# COMENTÁRIOS 
+# TESTE
+
+print(123) # Na frente
+print(456) 
+# Abaixo
